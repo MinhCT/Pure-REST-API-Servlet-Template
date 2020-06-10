@@ -6,7 +6,7 @@
   <body>
     <h3>List of available API endpoints:</h3>
     <ul>
-      <li></li>
+      <li>(POST) /api/get-some-data</li>
     </ul>
   </body>
 </html>
